@@ -53,6 +53,10 @@ Session-Level Metrics (Session Duration)
 
 🧠 Insight into factors affecting user conversion and retention
 
-📸 Screenshot Suggestions
-
-
+📸 Screenshot Suggestions<br>
+Pageview vs Conversion Rate<br>
+https://github.com/APPIKONDAKUMARSAI/Web_Traffic_EDA/blob/main/scatter_snapshot.PNG<br>
+Histograms of Numerical Features<br>
+http://github.com/APPIKONDAKUMARSAI/Web_Traffic_EDA/blob/main/histogram_chart_snapshot.PNG<br>
+Heatmap<br>
+https://github.com/APPIKONDAKUMARSAI/Web_Traffic_EDA/blob/main/heatmap_snapshot.PNG
